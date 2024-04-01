@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="Heading">The History App</string>
+    <string name="Hint">(Enter a whole number)</string>
+    <string name="Hint2">Result will be displayed here</string>
+    <string name="Prompt">Enter Age:</string>
+    <string name="Button1">Generate</string>
+    <string name="Button2">Clear</string>
+    <string name="AgeRange">Enter an age between 20-100</string>
+    <string name="BookImageDescription">History theme photo of a book</string>
+    <string name="PayrollImageDescription">History theme photo of a payroll</string>
+    <string name="BackgroundTextBoxDescription">A square background for the result in the application to appear clearly</string>
+
+</resources>
